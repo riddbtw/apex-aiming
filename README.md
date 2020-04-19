@@ -13,7 +13,7 @@ Over time, with approx. 1500 hours in Apex Legends and 150 hours aim training, I
 # General aim tips
 1. Put your hand/mouse in uncomfortable positions on your mousepad.  Try to minimize re-centering your mouse in places you're used to.  This will help you with in-game scenarios when your mouse is in sub-optimal positions.
 
-2. It should kind of 'hurt' sort of like working out.  not be totally sore where your hand is unusable but you are training small muscle fibers.  Really helps with precision
+2. It should kind of 'hurt' sort of like working out.  Not be totally sore where your hand is unusable but you are training small muscle fibers.  Really helps with precision
 
 3. Focus on a combination close/mid/long range scenarios.  They use different aim types (arm/wrist/finger) and train different muscles.  I found myself doing a ton of 'close fast strafes invincible' but doing really poorly midrange strafes until I started focusing that more
 
