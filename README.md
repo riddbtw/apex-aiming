@@ -1,6 +1,8 @@
 # apex-aiming
 Over time, with approx. 1500 hours in Apex Legends and 150 hours aim training, I've been keeping a list of things that help maximize aim training benefits.
 
+Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw) 
+
 # Tools required
 * [Kovaak's Aim Trainer](https://store.steampowered.com/app/824270/KovaaK_20_The_Meta/) (preferred, for now) or
 * [Aimgod](https://store.steampowered.com/app/1100990/Aimgod/)
