@@ -29,7 +29,7 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 
 # Improving your ranked play
 
-* If you see two teams actively fighting, don't get in the middle of them.  So many times especially in the lower ranks (goldish) what people probably think is the move is to fight both while they're hurt so you can clean up.  But in reality they probably are evenly trading unless you see downs in the kill feed, so when you insert yourself, they're more likely to both start turning on you.  Wait for the right opportunity to engage for a cleanup
+* If you see two teams actively fighting, don't get in the middle of them.  So many times especially in the lower ranks (goldish) what people think the move is to fight both while they're hurt so you can clean up.  But in reality they probably are evenly trading unless you see downs in the kill feed, so when you insert yourself, they're more likely to both start turning on you.  Wait for the right opportunity to engage for a cleanup
 
 * Should go without saying, but it's pretty much always better to stick with the group even if you're underprepared.  I've seen so many times a squad will land in a contested area, clean up the other team, loot and head to the next point.  But only two people who actively ping/comm their intent.  The third decides to go loot a totally different, 'safer' zone alone.  The two get in a fight and the third says "I'm coming" but by then it's a 1v3.  As long as you have a bodyshield, guns, and enough ammo to take a fight you should be good to go.  It's way more important to move and coordinate as a team vs. having better equipment.  I've seen full teams of purps/golds get bodied by grays just because the gray team was more coordinated  
 
