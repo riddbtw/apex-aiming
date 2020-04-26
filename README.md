@@ -12,6 +12,9 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 * [Sparky aim training routines](https://docs.google.com/document/d/1BPiDxbaqQVxInKwFfdr_AJdJDYVGKbUBGHJDKOeUy-Q/edit#heading=h.4t7np37336xm) - after maturing through into intermediate on Aimer7's guide and hitting plateaus, I started transitioning to this guide instead
 * [Sparky aim training benchmarks](https://docs.google.com/document/d/1vHiQRZMBJlmI69-SgHm3i0eS5ALfq2hEu-ZPyvC6ycE/edit) - I use these to get a general sense of where I'm at in my aim progression
 
+# Recommended video and gameplay settings
+* [This github](https://github.com/Gevorian/Apex-Legends/blob/master/Autoexec) will link you to how to configure your video and autoexec settings to get minimum graphics settings.  Using this moved me from ~90-100 FPS to have 144 consistent FPS.
+
 # General aim tips
 1. Put your hand/mouse in uncomfortable positions on your mousepad.  Try to minimize re-centering your mouse in places you're used to.  This will help you with in-game scenarios when your mouse is in sub-optimal positions.
 
