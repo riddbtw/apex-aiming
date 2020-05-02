@@ -30,6 +30,20 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 
 7. When following routines, make sure to play the entire routine but just reduce the amount of time played if you can't play for an hour or more.  Usually I'll train for ~30 minutes before hopping into Apex for the day
 
+# Aiming FAQ
+
+Q: **Why am I improving with my aim training but not improving in-game?**
+
+A: I've had similar problems in the past. Most likely, you're developing bad habits in your form without realizing it, which is allowing you to get higher scores but actually hurting your overall aim and mousefeel. Some examples I commonly see:
+
+* Focusing on speed vs. accuracy, especially in clicking scenarios - this leads to spending more time microadjusting to targets after over or under 'flicking.' In-game, this is extra time spent trying to lock onto a target, and likely they are locking onto you faster than you are them
+
+* Not focusing on smoothness - this leads to trying to 'predict' bot movement vs. reacting to their movement changes, and jittery mouse movement particularly with fast strafes. In-game, especially in higher TTK games like FN, your enemies are likely able to keep consistent dmg on you while you're missing more frequently when trading
+
+Do this - try RexStrafesCata and pay attention to how you adjust to target movement. If you're quickly flicking to adjust to movement changes, you've learned bad habits. You have to read through the narrative in the Aimer7 guide, he talks about these concepts but they are kind of hidden and scattered, and not much emphasis is put on them so they seem minor, but they are actually very critical to your aim improvement. For example he talks about when starting out on tracking, it's better to smoothly approach your target and undershoot than quickly flick to movement changes, overshooting and microadjusting back. That seemingly minor detail is actually incredibly important to your progress. Same with clicking scenarios and focusing on accuracy until ~85% before focusing on speed.
+
+If we're comparing aim training to weight lifting, think of the analogy as though you are learning improper form when doing deadlifts. You're probably still going to see a lot of results but over time you'll hit a plateau that prevents you from improving, or severely minimizes your gains. Spend some time really analyzing your form, not just your aim scores, and see where you need to work on it.
+
 # Improving your ranked play
 
 * If you see two teams actively fighting, don't get in the middle of them.  So many times especially in the lower ranks (goldish) what people think the move is to fight both while they're hurt so you can clean up.  But in reality they probably are evenly trading unless you see downs in the kill feed, so when you insert yourself, they're more likely to both start turning on you.  Wait for the right opportunity to engage for a cleanup
