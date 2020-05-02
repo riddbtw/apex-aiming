@@ -44,6 +44,10 @@ Do this - try RexStrafesCata and pay attention to how you adjust to target movem
 
 If we're comparing aim training to weight lifting, think of the analogy as though you are learning improper form when doing deadlifts. You're probably still going to see a lot of results but over time you'll hit a plateau that prevents you from improving, or severely minimizes your gains. Spend some time really analyzing your form, not just your aim scores, and see where you need to work on it.
 
+**Q: Should I train hipfire or aim down sights (ADS)?**
+
+A: I've done both at great length and saw no appreciable difference.  Some people swear by one or the other.  Personally I don't think it mattters.  Just train hipfire and be done with it.
+
 # Improving your ranked play
 
 * If you see two teams actively fighting, don't get in the middle of them.  So many times especially in the lower ranks (goldish) what people think the move is to fight both while they're hurt so you can clean up.  But in reality they probably are evenly trading unless you see downs in the kill feed, so when you insert yourself, they're more likely to both start turning on you.  Wait for the right opportunity to engage for a cleanup
