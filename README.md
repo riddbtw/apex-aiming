@@ -48,6 +48,10 @@ If we're comparing aim training to weight lifting, think of the analogy as thoug
 
 A: I've done both at great length and saw no appreciable difference.  Some people swear by one or the other.  Personally I don't think it mattters.  Just train hipfire and be done with it.
 
+**Q: How is my progress in ______ area? Why are my scores inconsistent?**
+
+A: Overall mousefeel improvement is your goal, not the scores. The map is not the territory. Scores are metrics we use to help guide our progress, but they are flawed, and it's not a 1:1 relationship with your aim training success.  You will see peaks and valleys along the way and it's expected.  If you see an overall upward trend on your scores over a long time period (weeks/months) of consistent training, you're on the right track.
+
 # Improving your ranked play
 
 * If you see two teams actively fighting, don't get in the middle of them.  So many times especially in the lower ranks (goldish) what people think the move is to fight both while they're hurt so you can clean up.  But in reality they probably are evenly trading unless you see downs in the kill feed, so when you insert yourself, they're more likely to both start turning on you.  Wait for the right opportunity to engage for a cleanup
