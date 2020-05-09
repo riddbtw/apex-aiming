@@ -8,6 +8,7 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 * [Aimgod](https://store.steampowered.com/app/1100990/Aimgod/)
 
 # Recommended aim guides
+* [Laizirz Routine](https://docs.google.com/document/d/1TADrvn1K0ThstNklJGQohi-qxGGd3jJ0PqlbDN-A2jg/edit) - my new favorite routine.  Not for beginners, this can be quite frustrating with mostly small, fast-moving bots.  But it seems to be the fastest way to improve in-game.
 * [Aimer7's workout routines](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0) - the defacto standard for aim training guides.  Pretty much always start here at beginner
 * [Sparky aim training routines](https://docs.google.com/document/d/1BPiDxbaqQVxInKwFfdr_AJdJDYVGKbUBGHJDKOeUy-Q/edit#heading=h.4t7np37336xm) - after maturing through into intermediate on Aimer7's guide and hitting plateaus, I started transitioning to this guide instead
 * [Sparky aim training benchmarks](https://docs.google.com/document/d/1vHiQRZMBJlmI69-SgHm3i0eS5ALfq2hEu-ZPyvC6ycE/edit) - I use these to get a general sense of where I'm at in my aim progression
