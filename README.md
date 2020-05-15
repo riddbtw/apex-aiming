@@ -16,6 +16,11 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 # Recommended video and gameplay settings
 * [This github](https://github.com/Gevorian/Apex-Legends/blob/master/Autoexec) will link you to how to configure your video and autoexec settings to get minimum graphics settings.  Using this moved me from ~90-100 FPS to have 144 consistent FPS.
 
+# Choosing a good mouse
+[Rocketjumpninja](https://www.rocketjumpninja.com/mouse-search) covers this topic better than anyone else.  Make sure to watch the video that walks you through how to properly measure your hand.  There's plenty of info out there about determining your mouse grip type.  
+* If you do choose a mouse that accepts double-A batteries, I suggest using spacers like [these](https://www.amazon.com/gp/product/B07D6RDQ3S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) to sub in AAA batteries to reduce overall mouse weight.
+* [These](https://www.itaktech.com/collections/g304-g305/products/tiger-gaming-logitech-g400-g400s-mx518-hero-mouse-feet-rounded) are the skates I used for my mouse (Logitech G305), they work fantastic and are fairly low cost.
+
 # General aim tips
 1. Put your hand/mouse in uncomfortable positions on your mousepad.  Try to minimize re-centering your mouse in places you're used to.  This will help you with in-game scenarios when your mouse is in sub-optimal positions.
 
