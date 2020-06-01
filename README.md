@@ -5,13 +5,18 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 
 # Tools required
 * [Kovaak's Aim Trainer](https://store.steampowered.com/app/824270/KovaaK_20_The_Meta/) (preferred, for now) or
-* [Aimgod](https://store.steampowered.com/app/1100990/Aimgod/)
+* [Aimbeast](https://store.steampowered.com/app/1100990/Aimbeast/)
 
 # Recommended aim guides
-* [Laizirz Routine](https://docs.google.com/document/d/1TADrvn1K0ThstNklJGQohi-qxGGd3jJ0PqlbDN-A2jg/edit) - my new favorite routine.  Not for beginners, this can be quite frustrating with mostly small, fast-moving bots.  But it seems to be the fastest way to improve in-game.
-* [Aimer7's workout routines](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0) - the defacto standard for aim training guides.  Pretty much always start here at beginner
-* [Sparky aim training routines](https://docs.google.com/document/d/1BPiDxbaqQVxInKwFfdr_AJdJDYVGKbUBGHJDKOeUy-Q/edit#heading=h.4t7np37336xm) - after maturing through into intermediate on Aimer7's guide and hitting plateaus, I started transitioning to this guide instead
+* [Sparky aim training routines](https://docs.google.com/document/d/1BPiDxbaqQVxInKwFfdr_AJdJDYVGKbUBGHJDKOeUy-Q/edit#heading=h.4t7np37336xm) - start here
 * [Sparky aim training benchmarks](https://docs.google.com/document/d/1vHiQRZMBJlmI69-SgHm3i0eS5ALfq2hEu-ZPyvC6ycE/edit) - I use these to get a general sense of where I'm at in my aim progression
+* [Laizirz Routine](https://docs.google.com/document/d/1TADrvn1K0ThstNklJGQohi-qxGGd3jJ0PqlbDN-A2jg/edit) - my new favorite routine.  Not for beginners, this can be quite frustrating with mostly small, fast-moving bots.  But it seems to be the fastest way to improve in-game.
+* [Aimer7's workout routines](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0) - used to be the de facto standard for routines, but pretty much everyone has transitioned to Sparky's instead
+
+# Kovaak's Settings
+* Use [this link](https://jscalc.io/embed/Q1gf45VCY4tmm2dq) and insert your relevant information to find your hipfire FOV and raw sensitivity.  Plug those into Kovaak's for your settings to be 1:1 with Apex.
+* Recommend using pure color walls and a contrasting color bot.  For example a lot of people play with grayish walls/ceiling and red bots.
+* Recommend disabling unnecessary artifacts like gun models, laser, bullet decals, etc. to focus purely on your aim
 
 # Recommended video and gameplay settings
 * [This github](https://github.com/Gevorian/Apex-Legends/blob/master/Autoexec) will link you to how to configure your video and autoexec settings to get minimum graphics settings.  Using this moved me from ~90-100 FPS to have 144 consistent FPS.
@@ -34,7 +39,7 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 
 6. If you find yourself 'zoning out' or not really focusing on the goals/objectives of what you're trying to achieve, your gains will be severely hampered.  You should actively be considering what you're weak at, where you need improvement, and focusing on getting the most out of your training.  Sometimes you just need to take a break for awhile if your heart isn't in it.  Playing music to help focus (sort of like with studying) can help.  Whatever techniques you use to help focus apply here
 
-7. When following routines, make sure to play the entire routine but just reduce the amount of time played if you can't play for an hour or more.  Usually I'll train for ~30 minutes before hopping into Apex for the day
+7. When following routines, make sure to play the entire routine but just reduce the amount of time played if you can't play for an hour or more.  Usually I'll train for ~30 minutes before hopping into Apex for the day.  That said, if you're hitting plateaus, it's a good indicator you need to spend more time training and isolate specific areas you need to improve
 
 # Aiming FAQ
 
