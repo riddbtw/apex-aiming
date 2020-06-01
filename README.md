@@ -11,7 +11,7 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 * [Sparky aim training routines](https://docs.google.com/document/d/1BPiDxbaqQVxInKwFfdr_AJdJDYVGKbUBGHJDKOeUy-Q/edit#heading=h.4t7np37336xm) - start here
 * [Sparky aim training benchmarks](https://docs.google.com/document/d/1vHiQRZMBJlmI69-SgHm3i0eS5ALfq2hEu-ZPyvC6ycE/edit) - I use these to get a general sense of where I'm at in my aim progression
 * [Laizirz Routine](https://docs.google.com/document/d/1TADrvn1K0ThstNklJGQohi-qxGGd3jJ0PqlbDN-A2jg/edit) - my new favorite routine.  Not for beginners, this can be quite frustrating with mostly small, fast-moving bots.  But it seems to be the fastest way to improve in-game.
-* [Aimer7's workout routines](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0) - used to be the de facto standard for routines, but pretty much everyone has transitioned to Sparky's instead
+* [Aimer7's workout routines](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0) - used to be the de facto standard for routines, but pretty much everyone has transitioned to Sparky's instead.  Still, I would suggest everyone read and understand the principles of aiming laid out in this guide.
 
 # Kovaak's Settings
 * Use [this link](https://jscalc.io/embed/Q1gf45VCY4tmm2dq) and insert your relevant information to find your hipfire FOV and raw sensitivity.  Plug those into Kovaak's for your settings to be 1:1 with Apex.
