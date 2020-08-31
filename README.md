@@ -10,6 +10,7 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 # Recommended aim guides
 * [Sparky aim training routines](https://docs.google.com/document/d/1BPiDxbaqQVxInKwFfdr_AJdJDYVGKbUBGHJDKOeUy-Q/edit#heading=h.4t7np37336xm) - start here
 * [Sparky aim training benchmarks](https://docs.google.com/document/d/1vHiQRZMBJlmI69-SgHm3i0eS5ALfq2hEu-ZPyvC6ycE/edit) - I use these to get a general sense of where I'm at in my aim progression
+* [PureRoutines](https://docs.google.com/document/d/1KClHkbHYJpJ6m81DKF3CO8THmn04GHuHvrslOsp8TbE/edit) - this is my new go-to warm-up routine when I'm pushing PBs.  This is primarily geared toward improving smoothness, and I do the 1by1 version.  Centering in particular is phenomenal for overall aim improvement.
 * [Laizirz Routine](https://docs.google.com/document/d/1TADrvn1K0ThstNklJGQohi-qxGGd3jJ0PqlbDN-A2jg/edit) - my new favorite routine.  Not for beginners, this can be quite frustrating with mostly small, fast-moving bots.  But it seems to be the fastest way to improve in-game.
 * [Aimer7's workout routines](https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0) - used to be the de facto standard for routines, but pretty much everyone has transitioned to Sparky's instead.  Still, I would suggest everyone read and understand the principles of aiming laid out in this guide.
 
@@ -20,6 +21,7 @@ Shameless plug: [My twitch channel](https://www.twitch.tv/riddbtw)
 
 # Recommended video and gameplay settings
 * [This github](https://github.com/Gevorian/Apex-Legends/blob/master/Autoexec) will link you to how to configure your video and autoexec settings to get minimum graphics settings.  Using this moved me from ~90-100 FPS to have 144 consistent FPS.
+* I recently came across these two great articles that explain [motion blur reduction](https://blurbusters.com/faq/motion-blur-reduction/) and [limiting FPS](https://graphicscardhub.com/fps-limiter/).  I've experimented with a lot of different settings, and the conclusion I've come to is the following TL;DR: **enable any motion blur reduction settings you have available in your monitor, and use RTSS to limit your FPS to ~5-10 frames below its refresh rate.**  So for my monitor which supports 144hz, I set my FPS cap to 141.  I've used Radeon's anti-chill as well, and RTSS just works better.
 
 # Choosing a good mouse
 [Rocketjumpninja](https://www.rocketjumpninja.com/mouse-search) covers this topic better than anyone else.  Make sure to watch the video that walks you through how to properly measure your hand.  There's plenty of info out there about determining your mouse grip type.  
